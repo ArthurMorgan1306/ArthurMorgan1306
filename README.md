@@ -1,16 +1,12 @@
-## Hi there 👋
+### Boas Vindas Ao Meu Perfil 🙅‍♂️🔥🔥
 
-<!--
-**ArthurMorgan1306/ArthurMorgan1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Lucas Félix 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Infelizmente Estou Estudando Na Alura
+- Estou Tentando Aprender A Linguagem JavaScript
+- Utilizo Esse Espaço Para Minha Organização E Compartilhamento Dos Meus Projetos Desenvolvidos 
+- Odeio Colica
+- Amo Lana Del Rey
+- 
+### Você Pode Entrar Em Contato Comigo ✈
+Pysho1029@gmail.com
