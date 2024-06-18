@@ -7,6 +7,6 @@ Meu Nome é Lucas Félix
 - Utilizo Esse Espaço Para Minha Organização E Compartilhamento Dos Meus Projetos Desenvolvidos 
 - Odeio Colica
 - Amo Olivia Rodrigo
-- 
+  
 ### Você Pode Entrar Em Contato Comigo ✈
 Pysho1029@gmail.com
